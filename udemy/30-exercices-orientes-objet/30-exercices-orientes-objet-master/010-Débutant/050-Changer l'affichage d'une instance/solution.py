@@ -21,3 +21,4 @@ employes = [
 for employe_data in employes:
     employe = Employe(*employe_data)
     Entreprise.employes.append(employe)
+    print(employe)

@@ -1,6 +1,11 @@
 {
     "python.analysis.extraPaths": [
         "./Clio_car/exo2",
-        "./Clio_car/exo3"
+        "./Clio_car/exo3",
+        "./Clio_car/exo5",
+        "./CONTACT",
+        "./CONTACT",
+        "./CONTACT/nodes",
+        "./FORUM"
     ]
 }
